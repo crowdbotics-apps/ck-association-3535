@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT ck_association_3535.wsgi:application
